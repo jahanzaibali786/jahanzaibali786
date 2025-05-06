@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @jahanzaibali786
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web desigining
-- 💞️ i'm also a graphic and video designer
-- 📫 How to reach me via whatsapp +923474552217
+# 👋 Hi, I’m **@jahanzaibali786**
 
-<!---
-jahanzaibali786/jahanzaibali786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 **Professional Web Application Developer**
+
+******************************************
+
+### 🚀 **Expertise & Skills**
+
+- 🧩 **Laravel (PHP)** – Robust backend architecture and development  
+- ⚙️ **JavaScript** – Interactive, dynamic frontend interfaces  
+- 🤖 **AI Integration** – Seamless integration of intelligent systems  
+- 🧠 **Custom AI Model Development** – Building models tailored to business needs  
+- 🔌 **API Development** – Scalable and secure RESTful APIs  
+- 📺 **Streaming Development** – Real-time media & data transmission  
+- 🗺️ **Mapbox** – Advanced mapping & geolocation features
+
+******************************************
+
+### 🌱 **About Me**
+
+- 👀 I’m passionate about building intelligent, scalable web applications  
+- 💬 Always eager to collaborate on innovative tech projects  
+- 🛠️ Focused on delivering clean, efficient, and maintainable code  
+******************************************
+
+### 📫 **Contact Me**
+
+- 📱 **WhatsApp**: [wa.me/+923494452217](https://wa.me/923494452217)  
+- 📧 **Email**: **ali.jahanzaib7860@gmail.com**
+******************************************
+⭐ *Let’s build something great together!*
